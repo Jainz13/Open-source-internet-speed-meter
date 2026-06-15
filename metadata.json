@@ -1,0 +1,6 @@
+{
+  "name": "NetMeter",
+  "description": "Real-time network speed monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
